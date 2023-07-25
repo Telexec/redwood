@@ -5,8 +5,6 @@
   [PBRP 4.0](https://raw.githubusercontent.com/Telexec/redwood/main/assests/recovery/PBRP%204.0.cpio)  
   ![I_TWRP](https://raw.githubusercontent.com/Telexec/redwood/main/assests/image/twrp.png)
   [TWRP 3.7.0_12-0](https://raw.githubusercontent.com/Telexec/redwood/main/assests/recovery/TWRP%203.7.0_12-0.cpio)
-  
----
 
 # Recovery Install Tutorial (for AOSP)
   1. Download [TWRP Installer](https://raw.githubusercontent.com/Telexec/redwood/main/assests/twrp_abtemplate.zip) and [Ramdisk](https://github.com/Telexec/redwood/tree/main#ramdisk).
